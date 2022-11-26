@@ -43,8 +43,13 @@ img {
     font-size:20px
 }
 
-#post
-{
-    background: white;
-    padding: 1em;
+.foofinal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #333;
+}
+
+.foo {
+    color: white;
 }
